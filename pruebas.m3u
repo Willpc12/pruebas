@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  group-title="Lista TV", prueba 1
-https://tna5.bozztv.com/r1drhrdhdrtj/index.m3u8
+https://vkvsd16.mycdn.me/hls/1267460082216.m3u8/sig/ljEIzBmlQIw/expires/1620872355367/srcIp/190.205.245.251/clientType/13/srcAg/CHROME_ANDROID/mid/2820506397480/video.m3u8?p
 
 
 #EXTINF:-1  group-title="Lista TV", prueba 2
@@ -9,7 +9,7 @@ https://vkvsd16.mycdn.me:443/hls/1267460082216.m3u8/sig/603gGsUpkYs/expires/1620
 
 
 #EXTINF:-1  group-title="Lista TV", prueba 3
-
+https://vkvsd16.mycdn.me:443/hls/1267460082216.m3u8
 
 
 #EXTINF:-1  group-title="Lista TV", prueba 4
