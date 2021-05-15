@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  group-title="Lista TV", prueba 1
-https://vkvsd16.mycdn.me/hls/1267460082216.m3u8/sig/ljEIzBmlQIw/expires/1620872355367/srcIp/190.205.245.251/clientType/13/srcAg/CHROME_ANDROID/mid/2820506397480/video.m3u8?p
-
+https://r2---sn-j5ou8-8aos.googlevideo.com/videoplayback?expire=1621109574&ei=5dafYNKVPOmjj-8PpbiZsAM&ip=200.109.18.85&id=o-AJpogTDBgi0_YD4YQrAzZeQJkTUSbsNUafFa-9PD_rHS&itag=18&source=youtube&requiressl=yes&mh=yu&mm=31%2C29&mn=sn-j5ou8-8aos%2Csn-hp57ynez&ms=au%2Crdu&mv=m&mvi=2&pl=23&initcwndbps=143750&vprv=1&mime=video%2Fmp4&ns=pUBO7xRrSfXj5oUDxEvGykQF&gir=yes&clen=146105986&ratebypass=yes&dur=1985.677&lmt=1578234334207996&mt=1621087718&fvip=2&fexp=24001373%2C24007246&c=MWEB&txp=5531432&n=eyCXjoBGYISzYQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgIIJ2WV7arjLVRj-7FPCnw0aj4UX1rziTKh8QuWRAwlQCIGpi14ejR2xCFVXagCEg0QLGyg6YFhKweo2XQ5CE5aJS&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAM8DPQ7tmMd0EUF7ppIVVaTIWqugVlaw5ngSWRUTxDBeAiAAg4RMYDqSxAdkRqXfTa4DFJST8PIHHlxF8hYOL52N9A%3D%3D&cpn=YFGsD2tpQFhFCjkJ&cver=2.20210511.03.00&ptk=youtube_single&oid=nNfY-ggvrFdFwU9cOEEgGw&ptchn=FJJziTVsiIVSyRKvXHX37g&pltype=content
 
 #EXTINF:-1  group-title="Lista TV", prueba 2
 https://vkvsd16.mycdn.me:443/hls/1267460082216.m3u8/sig/603gGsUpkYs/expires/1620870796821/srcIp/190.205.245.251/clientType/13/srcAg/CHROME_ANDROID/mid/2820506397480/1267460082216_low/index.m3u8
