@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  group-title="Lista TV", pruEBA 1
-http://192.168.12.135:37218/2084/ikudIJQEnwj9iEmOrS8TvdgSwLEA/000000.mp4
-
+http://192.168.12.140:37218/2013/Y693WL9bAHhmJbLzKVxlc3Au0s8A/000000.mp4
 
 
 #EXTINF:-1  group-title="Lista TV", prueba 2
