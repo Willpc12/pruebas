@@ -2105,11 +2105,101 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TEST A&E" tvg-logo="" group-title="",TEST A&E
-http://test.servicespcl.com:8000/live/test/test/2386.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEST AMC" tvg-logo="" group-title="",TEST AMC
-http://test.servicespcl.com:8000/live/test/test/2385.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEST Animal Planet" tvg-logo="" group-title="",TEST Animal Planet
-http://test.servicespcl.com:8000/live/test/test/2384.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEST AXN" tvg-logo="" group-title="",TEST AXN
-http://test.servicespcl.com:8000/live/test/test/2383.ts
+#EXTINF:0001, BANDA MAX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=221&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,TELEHIT +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=220&format=HLSAD&f=.m3u8
+
+#EXTINF:0001, TELEHIT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=218&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,MTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=212&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,MTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=211&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,MTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=214&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,MTV HITS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=213&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,VH1
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=334&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,TVC DEPORTES 
+https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2157&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,AYM SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=180&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,LAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2089&format=HLSAD&f=.m3u8
+
+#EXTINF:0001, ADRENALINA SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=1799&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,AXN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=64&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,UNIVERSAL CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=207&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,SONY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=48&format=HLSAD&f=.m3u8
+
+#EXTINF:0001, WARNER
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=205&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,TNT SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=71&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=201&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX LIFE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=77&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX PREMIUM ACTION
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=336&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX PREMIUM CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX PREMIUM MOVIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=146&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX PREMIUM CLASSICS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1732&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX PREMIUM SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=139&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,TUDN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=174&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=170&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX SPORTS 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=172&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,FOX SPORTS 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=178&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,ESPN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=168&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,ESPN 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=169&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,ESPN 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=345&format=HLSAD&f=.m3u8
+
+#EXTINF:0001,ESPN EXTRA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=167&format=HLSAD&f=.m3u8
+
+#EXTINF:0001, CLARO SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2564&format=HLSAD&f=.m3u8
