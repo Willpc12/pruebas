@@ -3104,3 +3104,22 @@ https://nd106.republicaservers.com/canal2misiones.mp4
 #EXTINF:-1 group-title="LOCALES 4" tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png",VEO SANTA FE (SOLO IPTV AZUL)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0254
 
+
+#EXTINF:-1,VIENDO MOVIES SD
+http://tv.masterplaytv.live:25461/noviembre2/bJN4fI5fpU/37767
+#EXTINF:-1,VIENDO MOVIES SD22
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6786
+#EXTINF:-1,VIENDO MOVIES SD22 Cine
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=74d1&device
+#EXTINF:-1,VIENDO MOVIES SD22 estreno
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6799
+#EXTINF:-1,VIENDO MOVIES SD22 terror
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6800
+#EXTINF:-1,VIENDO MOVIES SD22 Marvel
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87513
+#EXTINF:-1,VIENDO MOVIES SD22 zombie
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87549
+#EXTINF:-1,VIENDO MOVIES SD22 comedia
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87544
+#EXTINF:-1,VIENDO MOVIES SD22 Futurama
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
