@@ -1473,27 +1473,16 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0254
 http://tv.masterplaytv.live:25461/noviembre2/bJN4fI5fpU/37767
 #EXTINF:-1,VIENDO MOVIES SD22
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6786
-#EXTINF:-1,VIENDO MOVIES SD22 Cine
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=74d1&device
 #EXTINF:-1,VIENDO MOVIES SD22 estreno
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6799
 #EXTINF:-1,VIENDO MOVIES SD22 terror
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6800
 #EXTINF:-1,VIENDO MOVIES SD22 Marvel
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87513
-#EXTINF:-1,VIENDO MOVIES SD22 zombie
+#EXTINF:-1,MOVIES ZOMBIE
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87549
 #EXTINF:-1,VIENDO MOVIES SD22 comedia
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87544
 #EXTINF:-1,VIENDO MOVIES SD22 Futurama
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
-
-#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxigeno TV" tvg-country="VE" tvg-language="" tvg-logo="https://i.imgur.com/IkHrVCL.jpg" group-title="Venezuela",Oxigeno TV (230p)
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="STARAction.us" tvg-name="STAR Action Latinoamérica" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Venezuela",STAR Action Latinoamérica
-http://209.91.213.10:8088/play/a02b
-#EXTINF:-1 tvg-id="STARClassics.us" tvg-name="STAR Classics Latinoamérica" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Venezuela",STAR Classics Latinoamérica
-http://209.91.213.10:8088/play/a02d
-#EXTINF:-1 tvg-id="STARFun.us" tvg-name="STAR Fun Latinoamérica" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Venezuela",STAR Fun Latinoamérica
-http://209.91.213.10:8088/play/a02c
