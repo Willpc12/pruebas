@@ -1239,3 +1239,15 @@ http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigap
 #EXTINF:-1,VIENDO MOVIES SD22 Futurama
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
+
+
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS",Azteca Uno
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="SOLO PARA ROKOOS",Las Estrellas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="SOLO PARA ROKOOS",Imagen Television
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
+#EXTINF:-1 tvg-id="ForoTVUSFeed(Spanish).us" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="SOLO PARA ROKOOS",Foro TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/12?f=.m3u8
+
+
