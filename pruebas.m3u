@@ -1240,17 +1240,22 @@ http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigap
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
 
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TPLEY",Golden Plus
-https://blackghost.live/play/totalp1-804.php?c=122&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TPLEY",Golden
-https://blackghost.live/play/totalp1-804.php?c=123&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="TPLEY",Golden Edge
-https://blackghost.live/play/totalp1-804.php?c=124&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="TPLEY",TNT
-https://blackghost.live/play/totalp1-804.php?c=126&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="TPLEY",TCM
-https://blackghost.live/play/totalp1-804.php?c=128&p=3&k=black&f=.m3u8
-
+#EXTINF: -1 tvg-id = "StarSeries.ar" tvg-name = "STAR SERIES" tvg-logo = "/ logos / foxseries.png" group-title = "Lista 16", STAR SERIES
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxseries&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "STARFUN.ar" tvg-name = "STAR FUN" tvg-logo = "/ logos / foxfamily.png" group-title = "Lista 16", STAR FUN
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxfamily&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "STARCINEMA.ar" tvg-name = "STAR CINEMA" tvg-logo = "/ logos / foxcinema.png" group-title = "Lista 16", STAR CINEMA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxcinema&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "STARCOMEDY.ar" tvg-name = "STAR COMEDY" tvg-logo = "/ logos / foxcomedy.png" group-title = "Lista 16", STAR COMEDY
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxcomedy&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "StarClassics.ar" tvg-name = "STAR CLASSICS" tvg-logo = "/ logos / foxclassics.png" group-title = "Lista 16", STAR CLASSICS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxclassics&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "StarHits.co" tvg-name = "STAR HITS" tvg-logo = "/ logos / foxmovies.png" group-title = "Lista 16", STAR HITS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxmovies&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "StarLife.mx" tvg-name = "STAR LIFE" tvg-logo = "/ logos / foxlifelatino.png" group-title = "Lista 16", STAR LIFE
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxlife&k=blcckgh0oo05t&f=.m3u8
+#EXTINF: -1 tvg-id = "HBO.ar" tvg-name = "HBO" tvg-logo = "/ logos / hbo.png" group-title = "Lista 16", HBO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=hbo&k=blcckgh0oo05t&f=.m3u8
 
 
 
