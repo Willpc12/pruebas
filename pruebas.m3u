@@ -1240,14 +1240,15 @@ http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigap
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
 
-
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS",Azteca Uno
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="SOLO PARA ROKOOS",Las Estrellas
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="SOLO PARA ROKOOS",Imagen Television
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
-#EXTINF:-1 tvg-id="ForoTVUSFeed(Spanish).us" tvg-name="Foro TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="SOLO PARA ROKOOS",Foro TV
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/12?f=.m3u8
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TPLEY",Golden Plus
+https://blackghost.live/play/totalp1-804.php?c=122&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TPLEY",Golden
+https://blackghost.live/play/totalp1-804.php?c=123&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="TPLEY",Golden Edge
+https://blackghost.live/play/totalp1-804.php?c=124&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="TPLEY",TNT
+https://blackghost.live/play/totalp1-804.php?c=126&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="TPLEY",TCM
+https://blackghost.live/play/totalp1-804.php?c=128&p=3&k=black&f=.m3u8
 
 
