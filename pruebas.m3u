@@ -1,40 +1,6 @@
 #EXTM3U 
 
 
-
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="TK2020",Las Estrellas (HD)
-https://blackghost.live/play/totalp1-731.php?c=1784&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="TK2020",Canal 5 (HD)
-https://blackghost.live/play/totalp1-731.php?c=1785&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TK2020",Azteca 7 (HD)
-https://blackghost.live/play/totalp1-731.php?c=317&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="TK2020",A+
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=aztecamas&k=b1ackgh0o05t&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="TK2020",NU9VE
-https://blackghost.live/play/totalp1-731.php?c=1783&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TK2020",Imagen Televisión (HD)
-https://blackghost.live/play/totalp1-731.php?c=2606&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="TK2020",Claro Sports
-https://blackghost.live/play/totalp1-731.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 12 SV" tvg-logo="" group-title="TK2020",Canal 12 SV
-https://blackghost.live/play/codeplus3-731.php?c=33951
-#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol Televisión" tvg-logo="" group-title="TK2020",Caracol Televisión
-https://blackghost.live/play/codeplus3-731.php?c=33727
-#EXTINF:-1 tvg-id="TVN.pr" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvn.png" group-title="TK2020",TVN
-https://blackghost.live/play/codeplus3-731.php?c=33683
-
-#EXTINF:-1 group-title="Lista 28",PERU | WILLAX HD P
-https://blackghost.live/play/codeplus4-804.php?c=106307
-#EXTINF:-1 group-title="Lista 28",PERU | WILLAX HD
-https://blackghost.live/play/codeplus4-804.php?c=97554
-#EXTINF:-1 group-title="Lista 28",PERU | Willax 
-https://blackghost.live/play/codeplus4-804.php?c=186
-
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion" tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="FTA (LOCALES LIBRES)",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanade TV" tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="FTA (LOCALES LIBRES)",Kanade TV
@@ -127,9 +93,6 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="FTA (LOCALES LIBRES)",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg",IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 group-title="LOCALES 1" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png",CANAL 26 - 26.1
@@ -1240,6 +1203,14 @@ http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigap
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
 
+
+
+#EXTINF:-1 group-title="Lista 28",PERU | WILLAX HD P
+https://blackghost.live/play/codeplus4-804.php?c=106307
+#EXTINF:-1 group-title="Lista 28",PERU | WILLAX HD
+https://blackghost.live/play/codeplus4-804.php?c=97554
+#EXTINF:-1 group-title="Lista 28",PERU | Willax 
+https://blackghost.live/play/codeplus4-804.php?c=186
 
 
 
