@@ -1,6 +1,8 @@
-#EXTINF:-1 tvg-id="Nick.us" tvg-name="Nick" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nick (East) (360p)
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1  group-title="Lista 08",AR: Nick Jr
+https://blackghost.live/play/codeplus3-827.php?c=3151349
+#EXTINF:-1  group-title="Lista 08",AR: Nick Jr EN
+https://blackghost.live/play/codeplus3-827.php?c=3151350
 
 
-#EXTINF:-1 tvg-id="nickjrtoo.us" tvg-name="Nick Jr. Too" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="Kids",Nick Jr. Too (576p)
-http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="KIDS",Nick Jr.
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/12?f=.m3u8
